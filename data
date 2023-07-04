@@ -1,0 +1,136 @@
+{
+"status": "ok",
+"totalResults": 10,
+-"articles": [
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Julian Sands: Actor said mountains were 'more unstable' in last interview",
+"description": "In his last UK interview, the actor said friends believed mountaineering had become too dangerous.",
+"url": "http://www.bbc.co.uk/news/entertainment-arts-66087488",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14F61/production/_130275858_sands_bbc.jpg",
+"publishedAt": "2023-07-04T08:52:25.0561956Z",
+"content": "Actor Julian Sands, who died in a California mountain range, said in his last UK interview that many friends had stopped going mountaineering partly because it had become too dangerous.\r\nThe British … [+1411 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Fukushima nuclear disaster: UN watchdog approves plan for water release",
+"description": "Japan's plan to drain radioactive water into the Pacific has been opposed by China and South Korea.",
+"url": "http://www.bbc.co.uk/news/world-asia-66094479",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/149AD/production/_130279348_gettyimages-1255217753.jpg",
+"publishedAt": "2023-07-04T08:52:24.2751402Z",
+"content": "A UN watchdog has said that Japan's plan to release waste water from the tsunami-wrecked Fukushima nuclear plant into the sea complies with international standards.\r\nThe International Atomic Energy A… [+2290 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "US court orders $146m penalty over 500,000 missing silver coins",
+"description": "The weight and purity of American Silver Eagle coins are guaranteed by the US government.",
+"url": "http://www.bbc.co.uk/news/business-66094057",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/89E1/production/_130279253_gettyimages-1367283581.jpg",
+"publishedAt": "2023-07-04T08:52:22.556818Z",
+"content": "A US court has ordered two precious metals companies to pay almost $146m (£115m) after more than 500,000 American Silver Eagle coins went missing.\r\nThe firms and their owner Robert Higgins have been … [+1628 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Ukraine war: Major Moscow airport temporarily closed in drone attack",
+"description": "Russia's defence ministry says five Ukrainian drones were shot down in the Moscow region.",
+"url": "http://www.bbc.co.uk/news/world-europe-66094744",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13888/production/_130280008_gettyimages-1230636830-1.jpg",
+"publishedAt": "2023-07-04T06:52:19.4303487Z",
+"content": "Ukraine has launched a drone attack on Moscow, the Russian defence ministry says, forcing the temporary closure of one of the country's biggest airports.\r\nFive drones were reportedly used in Tuesday'… [+516 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "SCO summit: Putin to address meeting chaired by Indian PM Modi",
+"description": "Analysts say the SCO summit will be a chance for Mr Putin to show the world that he is still in command.",
+"url": "http://www.bbc.co.uk/news/world-asia-india-66094385",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4C29/production/_130279491_gettyimages-1237050361-594x594.jpg",
+"publishedAt": "2023-07-04T06:07:19.5437385Z",
+"content": "Russian President Vladimir Putin is set to address a global summit for the first time since the Wagner mercenary group staged a mutiny in June.\r\nHe will join leaders from China, India, Pakistan and f… [+4359 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "France riots: Within days we were in hell, says mayor",
+"description": "A mayor in one of France's poorest areas wants the state to take tougher measures against rioters.",
+"url": "http://www.bbc.co.uk/news/world-europe-66092431",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14877/production/_130278048_mayor.jpg",
+"publishedAt": "2023-07-04T05:52:22.492431Z",
+"content": "Zartoshte Bakhtiari says he hasn't slept more than three hours a night since the riots in France began a week ago.\r\nBy day, he's the mayor of Neuilly-sur-Marne, in one of France's poorest areas, east… [+4342 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Thousands flee Jenin camp as Israeli operation continues",
+"description": "Nine Palestinians have been killed in the air and ground assault in the West Bank city.",
+"url": "http://www.bbc.co.uk/news/live/world-middle-east-66085089",
+"urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+"publishedAt": "2023-07-04T05:22:21.5409252Z",
+"content": "I was in Jenin about a week ago. It is a bustling market town with a huge vegetable market in the middle.\r\nAbout a fifth of Israels population are Palestinian Arabs, and many of them cross over into … [+973 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Philadelphia mass shooting: Eight people shot by suspect, police say",
+"description": "A suspect is in custody and a weapon recovered, reports say, after a mass shooting in the US city.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-66061204",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E83/production/_115651730_breaking-promo-976.png",
+"publishedAt": "2023-07-04T02:37:19.9827345Z",
+"content": "Eight people have been shot in a mass shooting in the Kingsessing area of south-west Philadelphia on Monday, police said.\r\nA suspect has been taken into custody and a weapon has been recovered, CNN r… [+805 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Facebook owner Meta to launch Twitter rival on Thursday",
+"description": "The move is the latest in a rivalry between Meta boss Mark Zuckerberg and Twitter owner Elon Musk.",
+"url": "http://www.bbc.co.uk/news/business-66094072",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16753/production/_130278919_threads.jpg",
+"publishedAt": "2023-07-04T01:52:15.7335762Z",
+"content": "Facebook owner Meta is launching its new app to rival Twitter and says it will go live on Thursday. \r\nThe app, which is called Threads and is available for pre-order on the Apple App Store, will be l… [+2357 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC Sport",
+"title": "Injured Williams 'left in shock' by dramatic fall",
+"description": "Five-time champion Venus Williams, 43, recovers from a dramatic slip to continue against Elina Svitolina in a gutsy Wimbledon defeat.",
+"url": "http://www.bbc.co.uk/sport/tennis/66092149",
+"urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/1393B/production/_130278108_venus_williams.jpg",
+"publishedAt": "2023-07-04T00:52:16.5942047Z",
+"content": "<table><tr><th>Wimbledon 2023 on the BBC</th></tr>\r\n<tr><td>Venue: All England Club Dates: 3-16 July</td></tr><tr><td>Coverage: Live across BBC TV, radio and online with extensive coverage on BBC iPl… [+4119 chars]"
+}
+]
+}
